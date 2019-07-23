@@ -1,2 +1,0 @@
-# KKM-Operator
-KKM Operator
